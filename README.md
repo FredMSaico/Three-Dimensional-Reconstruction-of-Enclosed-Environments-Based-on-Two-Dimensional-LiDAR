@@ -13,7 +13,7 @@ This repository contains a ROS package for 3D mapping using a 2D LIDAR, specific
 1. Clone this repository into your ROS workspace:
     ```sh
     cd ~/catkin_ws/src
-    git clone <REPOSITORY_URL>
+    git clone <REPOSITORY_URL>](https://github.com/FredMSaico/Three-Dimensional-Reconstruction-of-Enclosed-Environments-Based-on-Two-Dimensional-LiDAR.git)
     ```
 
 2. Compile the package:
