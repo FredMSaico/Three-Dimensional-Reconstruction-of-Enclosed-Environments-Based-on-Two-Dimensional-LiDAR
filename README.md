@@ -45,4 +45,4 @@ To launch the 3D mapping package, run:
 
 ```sh
 roslaunch mapping3d mapping_demo.launch
-```sh
+```
