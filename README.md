@@ -5,7 +5,7 @@ This repository contains a ROS package for 3D mapping using a 2D LIDAR, specific
 ## Requirements
 
 - ROS Melodic or Noetic
-- RPLIDAR A1M8
+- RPLIDAR A1M8 /to install: https://github.com/Slamtec/rplidar_ros
 - A ROS-based robot that publishes odometry data on the `/odom` topic
 
 ## Installation
